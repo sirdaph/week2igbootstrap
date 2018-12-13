@@ -1,0 +1,54 @@
+body{
+    background: #BDBDBD;
+    margin: 0;
+}
+header{
+    background: white;
+    padding: 7px;
+
+}
+header h1{
+    margin: 0;
+}
+
+.postt1{
+  float: right;
+}
+
+.postt2 h2{
+   
+    
+    max-width: 60%;
+    margin-bottom: 0;
+    
+    
+}
+
+.post{
+    
+    background: white;
+    width: 600px;
+    margin-top: 10px;
+    margin: auto;
+    
+}
+
+.picholder{
+    margin:0;
+}
+.post img{
+    max-width: 600px;
+} 
+    
+
+    
+
+.container{
+    width:600px;
+    margin: auto;
+    
+   
+}
+.post p{
+    padding: 7px;
+}
